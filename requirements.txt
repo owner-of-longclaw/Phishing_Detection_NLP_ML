@@ -1,0 +1,7 @@
+# Phishing Detection — NLP Project
+# Author: Shyam Ravi
+# Install with: pip install -r requirements.txt
+
+pandas==2.0.3
+nltk==3.8.1
+scikit-learn==1.3.0

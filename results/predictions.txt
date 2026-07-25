@@ -1,0 +1,19 @@
+=======================================================
+  Phishing Detection Results -- Shyam Ravi
+=======================================================
+
+Message : Congratulations! You have won a free iPhone. Click here to claim your prize now!
+Result  : ⚠️  PHISHING DETECTED (keyword match)
+-------------------------------------------------------
+Message : Hi, are we still meeting tomorrow at 3pm for the project review?
+Result  : ✅ LEGITIMATE (confidence: 95.24%)
+-------------------------------------------------------
+Message : URGENT: Your bank account has been suspended. Verify your details immediately.
+Result  : ⚠️  PHISHING DETECTED (keyword match)
+-------------------------------------------------------
+Message : Hey, just checking if you received the document I sent yesterday.
+Result  : ✅ LEGITIMATE (confidence: 92.48%)
+-------------------------------------------------------
+Message : Your password needs to be reset. Login immediately to secure your account.
+Result  : ⚠️  PHISHING DETECTED (keyword match)
+-------------------------------------------------------
