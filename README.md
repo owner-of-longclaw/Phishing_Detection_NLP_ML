@@ -157,14 +157,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHAL
 
 ## ⚠️ Disclaimer
 
-This project is built purely for **educational and research purposes** in a controlled home environment.
+This phishing detection system is developed for **educational and cybersecurity research** purposes only.
 
-- All attack simulations were performed ONLY on systems I personally own and operate
-- No unauthorized systems were accessed
-- All findings are simulated in an isolated lab
-- This tool is NOT intended for malicious use
+- Dataset used: SMS Spam Collection (public)
+- No real user data was collected or stored
+- This tool is meant to DETECT phishing, not facilitate it
+- Do not use to intercept or scan messages without explicit authorization
 
-The author takes NO responsibility for misuse of this project or any damage caused by applying these techniques outside of authorized environments.
+The author is not responsible for any misuse of this detection system.
 
 # Code of Conduct
 
